@@ -4,6 +4,5 @@
 <h2>Hello Buddy!</h2>
 <h2>Hello k8s!</h2>
 <h2>Hello jenkins!</h2>
-1111
 </body>
 </html>
